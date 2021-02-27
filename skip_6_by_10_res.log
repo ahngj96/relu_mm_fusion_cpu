@@ -1,0 +1,76 @@
+M K N: 10000,784, 256
+matmul finished
+M K N: 10000,256, 256
+matmul finished
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9727
+239.71703958511353
+acc: 0.9783
+309.0298283100128
+M K N: 10000,784, 256
+matmul finished
+M K N: 10000,256, 256
+matmul finished
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9757
+242.0840241909027
+acc: 0.9787
+308.9704999923706
+M K N: 10000,784, 256
+matmul finished
+M K N: 10000,256, 256
+matmul finished
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9739
+240.96123123168945
+acc: 0.9781
+307.87679386138916
+M K N: 10000,784, 256
+matmul finished
+M K N: 10000,256, 256
+matmul finished
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9731
+239.09930086135864
+acc: 0.9787
+308.19404125213623
+M K N: 10000,784, 256
+matmul finished
+M K N: 10000,256, 256
+matmul finished
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9729
+242.09048461914062
+acc: 0.9787
+311.2445375919342
+###################

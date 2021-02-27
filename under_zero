@@ -1,0 +1,11 @@
+finished! -- under zero count: 1863182 / 2560000
+finished! -- under zero count: 1411224 / 2560000
+Extracting ./mnist/data/train-images-idx3-ubyte.gz
+Extracting ./mnist/data/train-labels-idx1-ubyte.gz
+Extracting ./mnist/data/t10k-images-idx3-ubyte.gz
+Extracting ./mnist/data/t10k-labels-idx1-ubyte.gz
+(?, 10)
+learn start
+finish!
+acc: 0.9777
+316.8901345729828
